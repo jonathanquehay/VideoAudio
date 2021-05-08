@@ -1,5 +1,5 @@
-# Proyecto de Biblioteca de Videos HTML, CSS Y Javascript
+# Proyecto web RESTAURANTE EL MIRADOR JUIGALPA
 
-## Repositorio que utiliza la librería de MaterializeCSS
+## Repositorio del sitio web
 
-### Desarrollado por: Jonathan Moreno - UNAN FAREM Chontales
+### Desarrollado por: Jonathan Moreno \ Cristiam Lazo - UNAN FAREM Chontales
